@@ -1,0 +1,41 @@
+Patient ID,Patient Problem,City,Age,Type
+P001,Fever,Bangalore,25,Outpatient
+P002,Cold,Hyderabad,18,Outpatient
+P003,Diabetes,Chennai,52,Inpatient
+P004,Hypertension,Delhi,60,Inpatient
+P005,Asthma,Mumbai,35,Outpatient
+P006,Fracture,Pune,28,Emergency
+P007,Migraine,Kolkata,30,Outpatient
+P008,Food Poisoning,Jaipur,22,Emergency
+P009,Dengue,Kochi,40,Inpatient
+P010,Malaria,Lucknow,45,Inpatient
+P011,Back Pain,Mysore,38,Outpatient
+P012,Kidney Stone,Bhopal,48,Inpatient
+P013,Arthritis,Surat,65,Outpatient
+P014,Pneumonia,Indore,55,Inpatient
+P015,Skin Allergy,Nagpur,27,Outpatient
+P016,Typhoid,Patna,33,Inpatient
+P017,Chest Pain,Bhubaneswar,50,Emergency
+P018,Eye Infection,Vijayawada,20,Outpatient
+P019,Ear Infection,Visakhapatnam,24,Outpatient
+P020,Gastric Ulcer,Coimbatore,42,Inpatient
+P021,COVID-19,Mangalore,39,Inpatient
+P022,Tooth Pain,Madurai,29,Outpatient
+P023,Appendicitis,Ranchi,34,Emergency
+P024,Heart Disease,Raipur,68,Inpatient
+P025,Liver Disease,Guwahati,58,Inpatient
+P026,Depression,Amritsar,31,Outpatient
+P027,Anxiety,Jodhpur,26,Outpatient
+P028,Thyroid Disorder,Kanpur,44,Outpatient
+P029,Obesity,Nashik,37,Outpatient
+P030,Anemia,Trichy,23,Outpatient
+P031,Tuberculosis,Hubli,49,Inpatient
+P032,Sinusitis,Belgaum,32,Outpatient
+P033,Burn Injury,Salem,36,Emergency
+P034,Stroke,Tirupati,70,Inpatient
+P035,Epilepsy,Udaipur,41,Inpatient
+P036,Urinary Infection,Guntur,46,Outpatient
+P037,Chickenpox,Shimla,15,Outpatient
+P038,Cataract,Dehradun,63,Inpatient
+P039,High Cholesterol,Agra,54,Outpatient
+P040,Pregnancy Checkup,Noida,29,Outpatient
